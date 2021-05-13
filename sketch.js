@@ -5,6 +5,7 @@ const Bodies = Matter.Bodies;
 const body = Matter.Body;
 const Render= Matter.Render;
 const Constraint = Matter.Constraint;
+var suspender
 
 
 function setup() {
